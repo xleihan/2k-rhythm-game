@@ -13,7 +13,7 @@ export interface LibrarySong {
  */
 export async function loadLibrarySongs(): Promise<LibrarySong[]> {
   try {
-    const response = await fetch('/songs.json');
+    const response = await fetch('songs.json');
     if (!response.ok) {
       throw new Error(`無法載入音樂清單: ${response.statusText}`);
     }

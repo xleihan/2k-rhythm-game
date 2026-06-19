@@ -115,7 +115,7 @@ try {
       index: index,
       title: title,
       artist: artist,
-      audioUrl: `/songs/${encodeURIComponent(file)}`, // 處理特殊字符的 URL
+      audioUrl: `songs/${encodeURIComponent(file)}`, // 處理特殊字符的 URL
       fileName: file,
       defaultDifficulty: difficulty
     });

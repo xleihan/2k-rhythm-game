@@ -4,7 +4,7 @@
     "index": "01",
     "title": "HIT",
     "artist": "Eric Reprid",
-    "audioUrl": "/songs/01%20-%20Eric%20Reprid%20-%20HIT%20%5BOfficial%20Video%5D.mp3",
+    "audioUrl": "songs/01%20-%20Eric%20Reprid%20-%20HIT%20%5BOfficial%20Video%5D.mp3",
     "fileName": "01 - Eric Reprid - HIT [Official Video].mp3",
     "defaultDifficulty": "normal"
   },
@@ -13,7 +13,7 @@
     "index": "01",
     "title": "[KCTAPE, Vol. 2]  LOVE IN THE AIR",
     "artist": "未知歌手",
-    "audioUrl": "/songs/01%20-%20%5BKCTAPE%2C%20Vol.%202%5D%20%20LOVE%20IN%20THE%20AIR%20(Music%20Video).mp3",
+    "audioUrl": "songs/01%20-%20%5BKCTAPE%2C%20Vol.%202%5D%20%20LOVE%20IN%20THE%20AIR%20(Music%20Video).mp3",
     "fileName": "01 - [KCTAPE, Vol. 2]  LOVE IN THE AIR (Music Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -22,7 +22,7 @@
     "index": "02",
     "title": "BITE",
     "artist": "未知歌手",
-    "audioUrl": "/songs/02%20-%20BITE.mp3",
+    "audioUrl": "songs/02%20-%20BITE.mp3",
     "fileName": "02 - BITE.mp3",
     "defaultDifficulty": "hard"
   },
@@ -31,7 +31,7 @@
     "index": "02",
     "title": "RANDOM",
     "artist": "Eric Reprid",
-    "audioUrl": "/songs/02%20-%20Eric%20Reprid%20-%20RANDOM%20%5BOfficial%20Audio%5D.mp3",
+    "audioUrl": "songs/02%20-%20Eric%20Reprid%20-%20RANDOM%20%5BOfficial%20Audio%5D.mp3",
     "fileName": "02 - Eric Reprid - RANDOM [Official Audio].mp3",
     "defaultDifficulty": "hard"
   },
@@ -40,7 +40,7 @@
     "index": "03",
     "title": "act v： there goes another vase",
     "artist": "4Batz",
-    "audioUrl": "/songs/03%20-%204Batz%20-%20act%20v%EF%BC%9A%20there%20goes%20another%20vase%20(Official%20Music%20Video).mp3",
+    "audioUrl": "songs/03%20-%204Batz%20-%20act%20v%EF%BC%9A%20there%20goes%20another%20vase%20(Official%20Music%20Video).mp3",
     "fileName": "03 - 4Batz - act v： there goes another vase (Official Music Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -49,7 +49,7 @@
     "index": "03",
     "title": "Confident ft. Chance The Rapper",
     "artist": "Justin Bieber",
-    "audioUrl": "/songs/03%20-%20Justin%20Bieber%20-%20Confident%20ft.%20Chance%20The%20Rapper.mp3",
+    "audioUrl": "songs/03%20-%20Justin%20Bieber%20-%20Confident%20ft.%20Chance%20The%20Rapper.mp3",
     "fileName": "03 - Justin Bieber - Confident ft. Chance The Rapper.mp3",
     "defaultDifficulty": "easy"
   },
@@ -58,7 +58,7 @@
     "index": "04",
     "title": "Jay Manwell",
     "artist": "Chosen",
-    "audioUrl": "/songs/04%20-%20Chosen%20-%20Jay%20Manwell%20(Official%20Audio).mp3",
+    "audioUrl": "songs/04%20-%20Chosen%20-%20Jay%20Manwell%20(Official%20Audio).mp3",
     "fileName": "04 - Chosen - Jay Manwell (Official Audio).mp3",
     "defaultDifficulty": "normal"
   },
@@ -67,7 +67,7 @@
     "index": "04",
     "title": "Cat! ⧸Do wyw",
     "artist": "ZAEK",
-    "audioUrl": "/songs/04%20-%20ZAEK%20-%20Cat!%20%E2%A7%B8Do%20wyw%20%5B%20Official%20Music%20Video%20%5D.mp3",
+    "audioUrl": "songs/04%20-%20ZAEK%20-%20Cat!%20%E2%A7%B8Do%20wyw%20%5B%20Official%20Music%20Video%20%5D.mp3",
     "fileName": "04 - ZAEK - Cat! ⧸Do wyw [ Official Music Video ].mp3",
     "defaultDifficulty": "normal"
   },
@@ -76,7 +76,7 @@
     "index": "05",
     "title": "So I Danced  ｜ Dear Insanity...",
     "artist": "DPR IAN",
-    "audioUrl": "/songs/05%20-%20DPR%20IAN%20-%20So%20I%20Danced%20(Official%20Music%20Video)%20%EF%BD%9C%20Dear%20Insanity....mp3",
+    "audioUrl": "songs/05%20-%20DPR%20IAN%20-%20So%20I%20Danced%20(Official%20Music%20Video)%20%EF%BD%9C%20Dear%20Insanity....mp3",
     "fileName": "05 - DPR IAN - So I Danced (Official Music Video) ｜ Dear Insanity....mp3",
     "defaultDifficulty": "hard"
   },
@@ -85,7 +85,7 @@
     "index": "05",
     "title": "'Good Goodbye'",
     "artist": "화사 (HWASA)",
-    "audioUrl": "/songs/05%20-%20%ED%99%94%EC%82%AC%20(HWASA)%20-%20'Good%20Goodbye'%20MV.mp3",
+    "audioUrl": "songs/05%20-%20%ED%99%94%EC%82%AC%20(HWASA)%20-%20'Good%20Goodbye'%20MV.mp3",
     "fileName": "05 - 화사 (HWASA) - 'Good Goodbye' MV.mp3",
     "defaultDifficulty": "hard"
   },
@@ -94,7 +94,7 @@
     "index": "06",
     "title": "Unlock It feat. Playboi Carti",
     "artist": "ABRA",
-    "audioUrl": "/songs/06%20-%20ABRA%20-%20Unlock%20It%20feat.%20Playboi%20Carti%20(Official%20Video).mp3",
+    "audioUrl": "songs/06%20-%20ABRA%20-%20Unlock%20It%20feat.%20Playboi%20Carti%20(Official%20Video).mp3",
     "fileName": "06 - ABRA - Unlock It feat. Playboi Carti (Official Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -103,7 +103,7 @@
     "index": "06",
     "title": "‘ONE MORE TIME’",
     "artist": "ALLDAY PROJECT",
-    "audioUrl": "/songs/06%20-%20ALLDAY%20PROJECT%20-%20%E2%80%98ONE%20MORE%20TIME%E2%80%99%20M%E2%A7%B8V.mp3",
+    "audioUrl": "songs/06%20-%20ALLDAY%20PROJECT%20-%20%E2%80%98ONE%20MORE%20TIME%E2%80%99%20M%E2%A7%B8V.mp3",
     "fileName": "06 - ALLDAY PROJECT - ‘ONE MORE TIME’ M⧸V.mp3",
     "defaultDifficulty": "easy"
   },
@@ -112,7 +112,7 @@
     "index": "07",
     "title": "‘FAMOUS’",
     "artist": "ALLDAY PROJECT",
-    "audioUrl": "/songs/07%20-%20ALLDAY%20PROJECT%20-%20%E2%80%98FAMOUS%E2%80%99%20M%E2%A7%B8V.mp3",
+    "audioUrl": "songs/07%20-%20ALLDAY%20PROJECT%20-%20%E2%80%98FAMOUS%E2%80%99%20M%E2%A7%B8V.mp3",
     "fileName": "07 - ALLDAY PROJECT - ‘FAMOUS’ M⧸V.mp3",
     "defaultDifficulty": "normal"
   },
@@ -121,7 +121,7 @@
     "index": "07",
     "title": "Thomeboydontkill ＂再堅固的感情 都能說散就散＂",
     "artist": "我唉你 (lilth3)",
-    "audioUrl": "/songs/07%20-%20%E6%88%91%E5%94%89%E4%BD%A0%20(lilth3)%20-%20Thomeboydontkill%20%EF%BC%82%E5%86%8D%E5%A0%85%E5%9B%BA%E7%9A%84%E6%84%9F%E6%83%85%20%E9%83%BD%E8%83%BD%E8%AA%AA%E6%95%A3%E5%B0%B1%E6%95%A3%EF%BC%82%EF%BC%BB%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%20-%20lyrics%20video%EF%BC%BD.mp3",
+    "audioUrl": "songs/07%20-%20%E6%88%91%E5%94%89%E4%BD%A0%20(lilth3)%20-%20Thomeboydontkill%20%EF%BC%82%E5%86%8D%E5%A0%85%E5%9B%BA%E7%9A%84%E6%84%9F%E6%83%85%20%E9%83%BD%E8%83%BD%E8%AA%AA%E6%95%A3%E5%B0%B1%E6%95%A3%EF%BC%82%EF%BC%BB%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%20-%20lyrics%20video%EF%BC%BD.mp3",
     "fileName": "07 - 我唉你 (lilth3) - Thomeboydontkill ＂再堅固的感情 都能說散就散＂［中文歌詞 - lyrics video］.mp3",
     "defaultDifficulty": "normal"
   },
@@ -130,7 +130,7 @@
     "index": "08",
     "title": "Family Affair",
     "artist": "未知歌手",
-    "audioUrl": "/songs/08%20-%20Family%20Affair.mp3",
+    "audioUrl": "songs/08%20-%20Family%20Affair.mp3",
     "fileName": "08 - Family Affair.mp3",
     "defaultDifficulty": "hard"
   },
@@ -139,7 +139,7 @@
     "index": "08",
     "title": "红色惊叹号",
     "artist": "thomeboydontkill",
-    "audioUrl": "/songs/08%20-%20thomeboydontkill%20-%20%E3%80%8A%E7%BA%A2%E8%89%B2%E6%83%8A%E5%8F%B9%E5%8F%B7%E3%80%8B%5BOfficial%20Music%20Video%5D.mp3",
+    "audioUrl": "songs/08%20-%20thomeboydontkill%20-%20%E3%80%8A%E7%BA%A2%E8%89%B2%E6%83%8A%E5%8F%B9%E5%8F%B7%E3%80%8B%5BOfficial%20Music%20Video%5D.mp3",
     "fileName": "08 - thomeboydontkill - 《红色惊叹号》[Official Music Video].mp3",
     "defaultDifficulty": "hard"
   },
@@ -148,7 +148,7 @@
     "index": "09",
     "title": "Day Off",
     "artist": "LINION & 陳嫺靜",
-    "audioUrl": "/songs/09%20-%20LINION%20%26%20%E9%99%B3%E5%AB%BA%E9%9D%9C-Day%20Off%EF%BD%9CLINION%20is%20not%20Linion%E9%AB%98%E9%9B%84%E5%B0%88%E5%A0%B4.mp3",
+    "audioUrl": "songs/09%20-%20LINION%20%26%20%E9%99%B3%E5%AB%BA%E9%9D%9C-Day%20Off%EF%BD%9CLINION%20is%20not%20Linion%E9%AB%98%E9%9B%84%E5%B0%88%E5%A0%B4.mp3",
     "fileName": "09 - LINION & 陳嫺靜-Day Off｜LINION is not Linion高雄專場.mp3",
     "defaultDifficulty": "easy"
   },
@@ -157,7 +157,7 @@
     "index": "09",
     "title": "魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ]",
     "artist": "未知歌手",
-    "audioUrl": "/songs/09%20-%20%E9%AD%8F%E5%A6%82%E8%90%B1%20waa%20wei%20%5B%20%E6%88%91%E5%9C%A8%E7%B4%90%E7%B4%84%E6%89%93%E9%9B%BB%E8%A9%B1%E7%B5%A6%E4%BD%A0%20na%20mo%20miss%20you%20%5D%20Official%20Music%20Video.mp3",
+    "audioUrl": "songs/09%20-%20%E9%AD%8F%E5%A6%82%E8%90%B1%20waa%20wei%20%5B%20%E6%88%91%E5%9C%A8%E7%B4%90%E7%B4%84%E6%89%93%E9%9B%BB%E8%A9%B1%E7%B5%A6%E4%BD%A0%20na%20mo%20miss%20you%20%5D%20Official%20Music%20Video.mp3",
     "fileName": "09 - 魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video.mp3",
     "defaultDifficulty": "easy"
   },
@@ -166,7 +166,7 @@
     "index": "10",
     "title": "Flocky Flocky (feat. Travis Scott)",
     "artist": "Don Toliver",
-    "audioUrl": "/songs/10%20-%20Don%20Toliver%20-%20Flocky%20Flocky%20(feat.%20Travis%20Scott)%20%5BOfficial%20Music%20Video%5D.mp3",
+    "audioUrl": "songs/10%20-%20Don%20Toliver%20-%20Flocky%20Flocky%20(feat.%20Travis%20Scott)%20%5BOfficial%20Music%20Video%5D.mp3",
     "fileName": "10 - Don Toliver - Flocky Flocky (feat. Travis Scott) [Official Music Video].mp3",
     "defaultDifficulty": "normal"
   },
@@ -175,7 +175,7 @@
     "index": "10",
     "title": "Who Hurt You？",
     "artist": "未知歌手",
-    "audioUrl": "/songs/10%20-%20Who%20Hurt%20You%EF%BC%9F.mp3",
+    "audioUrl": "songs/10%20-%20Who%20Hurt%20You%EF%BC%9F.mp3",
     "fileName": "10 - Who Hurt You？.mp3",
     "defaultDifficulty": "normal"
   },
@@ -184,7 +184,7 @@
     "index": "11",
     "title": "COME DANCE (MIU MIU ENCOUNTERS)",
     "artist": "未知歌手",
-    "audioUrl": "/songs/11%20-%20COME%20DANCE%20(MIU%20MIU%20ENCOUNTERS).mp3",
+    "audioUrl": "songs/11%20-%20COME%20DANCE%20(MIU%20MIU%20ENCOUNTERS).mp3",
     "fileName": "11 - COME DANCE (MIU MIU ENCOUNTERS).mp3",
     "defaultDifficulty": "hard"
   },
@@ -193,7 +193,7 @@
     "index": "11",
     "title": "deca joins ｜ 我和我的遐想 【】",
     "artist": "未知歌手",
-    "audioUrl": "/songs/11%20-%20deca%20joins%20%EF%BD%9C%20%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E9%81%90%E6%83%B3%20%E3%80%90Official%20Video%E3%80%91.mp3",
+    "audioUrl": "songs/11%20-%20deca%20joins%20%EF%BD%9C%20%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E9%81%90%E6%83%B3%20%E3%80%90Official%20Video%E3%80%91.mp3",
     "fileName": "11 - deca joins ｜ 我和我的遐想 【Official Video】.mp3",
     "defaultDifficulty": "hard"
   },
@@ -202,7 +202,7 @@
     "index": "12",
     "title": "Maria I'm Drunk",
     "artist": "未知歌手",
-    "audioUrl": "/songs/12%20-%20Maria%20I'm%20Drunk.mp3",
+    "audioUrl": "songs/12%20-%20Maria%20I'm%20Drunk.mp3",
     "fileName": "12 - Maria I'm Drunk.mp3",
     "defaultDifficulty": "easy"
   },
@@ -211,7 +211,7 @@
     "index": "12",
     "title": "Sexual Vibes (feat. Ersh Oka)",
     "artist": "Teezy",
-    "audioUrl": "/songs/12%20-%20Teezy%20-%20Sexual%20Vibes%20(feat.%20Ersh%20Oka)%20(Official%20Audio).mp3",
+    "audioUrl": "songs/12%20-%20Teezy%20-%20Sexual%20Vibes%20(feat.%20Ersh%20Oka)%20(Official%20Audio).mp3",
     "fileName": "12 - Teezy - Sexual Vibes (feat. Ersh Oka) (Official Audio).mp3",
     "defaultDifficulty": "easy"
   },
@@ -220,7 +220,7 @@
     "index": "13",
     "title": "Half The Plot",
     "artist": "Lil Tecca",
-    "audioUrl": "/songs/13%20-%20Lil%20Tecca%20-%20Half%20The%20Plot%20(Official%20Video).mp3",
+    "audioUrl": "songs/13%20-%20Lil%20Tecca%20-%20Half%20The%20Plot%20(Official%20Video).mp3",
     "fileName": "13 - Lil Tecca - Half The Plot (Official Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -229,7 +229,7 @@
     "index": "13",
     "title": "走",
     "artist": "未知歌手",
-    "audioUrl": "/songs/13%20-%20%E8%B5%B0.mp3",
+    "audioUrl": "songs/13%20-%20%E8%B5%B0.mp3",
     "fileName": "13 - 走.mp3",
     "defaultDifficulty": "normal"
   },
@@ -238,7 +238,7 @@
     "index": "14",
     "title": "The Truth",
     "artist": "Lil Tecca",
-    "audioUrl": "/songs/14%20-%20Lil%20Tecca%20-%20The%20Truth%20(Official%20Visualizer).mp3",
+    "audioUrl": "songs/14%20-%20Lil%20Tecca%20-%20The%20Truth%20(Official%20Visualizer).mp3",
     "fileName": "14 - Lil Tecca - The Truth (Official Visualizer).mp3",
     "defaultDifficulty": "hard"
   },
@@ -247,7 +247,7 @@
     "index": "14",
     "title": "Būn) Sin Man【】",
     "artist": "美秀集團 Amazing Show－心悶 (Sim",
-    "audioUrl": "/songs/14%20-%20%E7%BE%8E%E7%A7%80%E9%9B%86%E5%9C%98%20Amazing%20Show%EF%BC%8D%E5%BF%83%E6%82%B6%20(Sim-B%C5%ABn)%20Sin%20Man%E3%80%90Official%20Music%20Video%E3%80%91.mp3",
+    "audioUrl": "songs/14%20-%20%E7%BE%8E%E7%A7%80%E9%9B%86%E5%9C%98%20Amazing%20Show%EF%BC%8D%E5%BF%83%E6%82%B6%20(Sim-B%C5%ABn)%20Sin%20Man%E3%80%90Official%20Music%20Video%E3%80%91.mp3",
     "fileName": "14 - 美秀集團 Amazing Show－心悶 (Sim-Būn) Sin Man【Official Music Video】.mp3",
     "defaultDifficulty": "hard"
   },
@@ -256,7 +256,7 @@
     "index": "15",
     "title": "One Time",
     "artist": "Justin Bieber",
-    "audioUrl": "/songs/15%20-%20Justin%20Bieber%20-%20One%20Time%20(Official%20Music%20Video).mp3",
+    "audioUrl": "songs/15%20-%20Justin%20Bieber%20-%20One%20Time%20(Official%20Music%20Video).mp3",
     "fileName": "15 - Justin Bieber - One Time (Official Music Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -265,7 +265,7 @@
     "index": "15",
     "title": "Where Is The Love (Cover by Ni⧸Co)",
     "artist": "The Black Eyed Peas",
-    "audioUrl": "/songs/15%20-%20The%20Black%20Eyed%20Peas%20-%20Where%20Is%20The%20Love%20(Cover%20by%20Ni%E2%A7%B8Co).mp3",
+    "audioUrl": "songs/15%20-%20The%20Black%20Eyed%20Peas%20-%20Where%20Is%20The%20Love%20(Cover%20by%20Ni%E2%A7%B8Co).mp3",
     "fileName": "15 - The Black Eyed Peas - Where Is The Love (Cover by Ni⧸Co).mp3",
     "defaultDifficulty": "easy"
   },
@@ -274,7 +274,7 @@
     "index": "16",
     "title": "Blessings",
     "artist": "未知歌手",
-    "audioUrl": "/songs/16%20-%20Blessings.mp3",
+    "audioUrl": "songs/16%20-%20Blessings.mp3",
     "fileName": "16 - Blessings.mp3",
     "defaultDifficulty": "normal"
   },
@@ -283,7 +283,7 @@
     "index": "16",
     "title": "Dark Thoughts",
     "artist": "Lil Tecca",
-    "audioUrl": "/songs/16%20-%20Lil%20Tecca%20-%20Dark%20Thoughts%20(Official%20Video).mp3",
+    "audioUrl": "songs/16%20-%20Lil%20Tecca%20-%20Dark%20Thoughts%20(Official%20Video).mp3",
     "fileName": "16 - Lil Tecca - Dark Thoughts (Official Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -292,7 +292,7 @@
     "index": "17",
     "title": "Track10",
     "artist": "Charli XCX",
-    "audioUrl": "/songs/17%20-%20Charli%20XCX%20-%20Track10%20%5BOfficial%20Audio%5D.mp3",
+    "audioUrl": "songs/17%20-%20Charli%20XCX%20-%20Track10%20%5BOfficial%20Audio%5D.mp3",
     "fileName": "17 - Charli XCX - Track10 [Official Audio].mp3",
     "defaultDifficulty": "hard"
   },
@@ -301,7 +301,7 @@
     "index": "17",
     "title": "Take it slowly",
     "artist": "未知歌手",
-    "audioUrl": "/songs/17%20-%20Take%20it%20slowly.mp3",
+    "audioUrl": "songs/17%20-%20Take%20it%20slowly.mp3",
     "fileName": "17 - Take it slowly.mp3",
     "defaultDifficulty": "hard"
   },
@@ -310,7 +310,7 @@
     "index": "18",
     "title": "Die For You (Remix ⧸ Lyric Video)",
     "artist": "The Weeknd, Ariana Grande",
-    "audioUrl": "/songs/18%20-%20The%20Weeknd%2C%20Ariana%20Grande%20-%20Die%20For%20You%20(Remix%20%E2%A7%B8%20Lyric%20Video).mp3",
+    "audioUrl": "songs/18%20-%20The%20Weeknd%2C%20Ariana%20Grande%20-%20Die%20For%20You%20(Remix%20%E2%A7%B8%20Lyric%20Video).mp3",
     "fileName": "18 - The Weeknd, Ariana Grande - Die For You (Remix ⧸ Lyric Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -319,7 +319,7 @@
     "index": "18",
     "title": "＂The Man＂",
     "artist": "Westwood",
-    "audioUrl": "/songs/18%20-%20Westwood%20-%20%EF%BC%82The%20Man%EF%BC%82%20(OFFICIAL%20MUSIC%20VIDEO).mp3",
+    "audioUrl": "songs/18%20-%20Westwood%20-%20%EF%BC%82The%20Man%EF%BC%82%20(OFFICIAL%20MUSIC%20VIDEO).mp3",
     "fileName": "18 - Westwood - ＂The Man＂ (OFFICIAL MUSIC VIDEO).mp3",
     "defaultDifficulty": "easy"
   },
@@ -328,7 +328,7 @@
     "index": "19",
     "title": "Cinderella (feat. MaSiWei)",
     "artist": "未知歌手",
-    "audioUrl": "/songs/19%20-%20Cinderella%20(feat.%20MaSiWei).mp3",
+    "audioUrl": "songs/19%20-%20Cinderella%20(feat.%20MaSiWei).mp3",
     "fileName": "19 - Cinderella (feat. MaSiWei).mp3",
     "defaultDifficulty": "normal"
   },
@@ -337,7 +337,7 @@
     "index": "19",
     "title": "'Strategy' Official",
     "artist": "Olivia Marsh (올리비아 마쉬)",
-    "audioUrl": "/songs/19%20-%20Olivia%20Marsh%20(%EC%98%AC%EB%A6%AC%EB%B9%84%EC%95%84%20%EB%A7%88%EC%89%AC)%20-%20'Strategy'%20Official%20MV.mp3",
+    "audioUrl": "songs/19%20-%20Olivia%20Marsh%20(%EC%98%AC%EB%A6%AC%EB%B9%84%EC%95%84%20%EB%A7%88%EC%89%AC)%20-%20'Strategy'%20Official%20MV.mp3",
     "fileName": "19 - Olivia Marsh (올리비아 마쉬) - 'Strategy' Official MV.mp3",
     "defaultDifficulty": "normal"
   },
@@ -346,7 +346,7 @@
     "index": "20",
     "title": "Roll Wit Me",
     "artist": "未知歌手",
-    "audioUrl": "/songs/20%20-%20Roll%20Wit%20Me.mp3",
+    "audioUrl": "songs/20%20-%20Roll%20Wit%20Me.mp3",
     "fileName": "20 - Roll Wit Me.mp3",
     "defaultDifficulty": "hard"
   },
@@ -355,7 +355,7 @@
     "index": "20",
     "title": "“噓...” feat. 徐佳瑩",
     "artist": "【顏社】蛋堡 Soft Lipa",
-    "audioUrl": "/songs/20%20-%20%E3%80%90%E9%A1%8F%E7%A4%BE%E3%80%91%E8%9B%8B%E5%A0%A1%20Soft%20Lipa%20-%20%E2%80%9C%E5%99%93...%E2%80%9D%20feat.%20%E5%BE%90%E4%BD%B3%E7%91%A9%20(Official%20Music%20Video).mp3",
+    "audioUrl": "songs/20%20-%20%E3%80%90%E9%A1%8F%E7%A4%BE%E3%80%91%E8%9B%8B%E5%A0%A1%20Soft%20Lipa%20-%20%E2%80%9C%E5%99%93...%E2%80%9D%20feat.%20%E5%BE%90%E4%BD%B3%E7%91%A9%20(Official%20Music%20Video).mp3",
     "fileName": "20 - 【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video).mp3",
     "defaultDifficulty": "hard"
   },
@@ -364,7 +364,7 @@
     "index": "21",
     "title": "Cleopatra",
     "artist": "Marzz",
-    "audioUrl": "/songs/21%20-%20Marzz%20-%20Cleopatra%20(Official%20Video).mp3",
+    "audioUrl": "songs/21%20-%20Marzz%20-%20Cleopatra%20(Official%20Video).mp3",
     "fileName": "21 - Marzz - Cleopatra (Official Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -373,7 +373,7 @@
     "index": "21",
     "title": "Open Arms  ft. Travis Scott",
     "artist": "SZA",
-    "audioUrl": "/songs/21%20-%20SZA%20-%20Open%20Arms%20(Official%20Audio)%20ft.%20Travis%20Scott.mp3",
+    "audioUrl": "songs/21%20-%20SZA%20-%20Open%20Arms%20(Official%20Audio)%20ft.%20Travis%20Scott.mp3",
     "fileName": "21 - SZA - Open Arms (Official Audio) ft. Travis Scott.mp3",
     "defaultDifficulty": "easy"
   },
@@ -382,7 +382,7 @@
     "index": "22",
     "title": "花園裡的流星雨 Meteor Shower",
     "artist": "Karencici",
-    "audioUrl": "/songs/22%20-%20Karencici%20-%20%E8%8A%B1%E5%9C%92%E8%A3%A1%E7%9A%84%E6%B5%81%E6%98%9F%E9%9B%A8%20Meteor%20Shower(Official%20Music%20Video).mp3",
+    "audioUrl": "songs/22%20-%20Karencici%20-%20%E8%8A%B1%E5%9C%92%E8%A3%A1%E7%9A%84%E6%B5%81%E6%98%9F%E9%9B%A8%20Meteor%20Shower(Official%20Music%20Video).mp3",
     "fileName": "22 - Karencici - 花園裡的流星雨 Meteor Shower(Official Music Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -391,7 +391,7 @@
     "index": "22",
     "title": "Hey Boy (Official 高畫質HD官方完整版)",
     "artist": "王詩安 Diana Wang",
-    "audioUrl": "/songs/22%20-%20%E7%8E%8B%E8%A9%A9%E5%AE%89%20Diana%20Wang%20-%20Hey%20Boy%20(Official%20%E9%AB%98%E7%95%AB%E8%B3%AAHD%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88MV).mp3",
+    "audioUrl": "songs/22%20-%20%E7%8E%8B%E8%A9%A9%E5%AE%89%20Diana%20Wang%20-%20Hey%20Boy%20(Official%20%E9%AB%98%E7%95%AB%E8%B3%AAHD%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88MV).mp3",
     "fileName": "22 - 王詩安 Diana Wang - Hey Boy (Official 高畫質HD官方完整版MV).mp3",
     "defaultDifficulty": "normal"
   },
@@ -400,7 +400,7 @@
     "index": "23",
     "title": "Get It Together (feat. Black Coffee & Jorja Smith)",
     "artist": "Drake",
-    "audioUrl": "/songs/23%20-%20Drake%20-%20Get%20It%20Together%20(feat.%20Black%20Coffee%20%26%20Jorja%20Smith).mp3",
+    "audioUrl": "songs/23%20-%20Drake%20-%20Get%20It%20Together%20(feat.%20Black%20Coffee%20%26%20Jorja%20Smith).mp3",
     "fileName": "23 - Drake - Get It Together (feat. Black Coffee & Jorja Smith).mp3",
     "defaultDifficulty": "hard"
   },
@@ -409,7 +409,7 @@
     "index": "23",
     "title": "Know No Better (Visualizer) ft. Da Baby",
     "artist": "Justin Bieber",
-    "audioUrl": "/songs/23%20-%20Justin%20Bieber%20-%20Know%20No%20Better%20(Visualizer)%20ft.%20Da%20Baby.mp3",
+    "audioUrl": "songs/23%20-%20Justin%20Bieber%20-%20Know%20No%20Better%20(Visualizer)%20ft.%20Da%20Baby.mp3",
     "fileName": "23 - Justin Bieber - Know No Better (Visualizer) ft. Da Baby.mp3",
     "defaultDifficulty": "hard"
   },
@@ -418,7 +418,7 @@
     "index": "24",
     "title": "problems",
     "artist": "Dina Ayada",
-    "audioUrl": "/songs/24%20-%20Dina%20Ayada%20-%20problems%20(Official%20Video).mp3",
+    "audioUrl": "songs/24%20-%20Dina%20Ayada%20-%20problems%20(Official%20Video).mp3",
     "fileName": "24 - Dina Ayada - problems (Official Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -427,7 +427,7 @@
     "index": "24",
     "title": "Wants and Needs",
     "artist": "未知歌手",
-    "audioUrl": "/songs/24%20-%20Wants%20and%20Needs.mp3",
+    "audioUrl": "songs/24%20-%20Wants%20and%20Needs.mp3",
     "fileName": "24 - Wants and Needs.mp3",
     "defaultDifficulty": "easy"
   },
@@ -436,7 +436,7 @@
     "index": "25",
     "title": "Old day",
     "artist": "未知歌手",
-    "audioUrl": "/songs/25%20-%20Old%20day.mp3",
+    "audioUrl": "songs/25%20-%20Old%20day.mp3",
     "fileName": "25 - Old day.mp3",
     "defaultDifficulty": "normal"
   },
@@ -445,7 +445,7 @@
     "index": "25",
     "title": "有沒有 (官方版)",
     "artist": "韋禮安 Weibird Wei",
-    "audioUrl": "/songs/25%20-%20%E9%9F%8B%E7%A6%AE%E5%AE%89%20Weibird%20Wei%20-%20%E6%9C%89%E6%B2%92%E6%9C%89%20(%E5%AE%98%E6%96%B9%E7%89%88MV).mp3",
+    "audioUrl": "songs/25%20-%20%E9%9F%8B%E7%A6%AE%E5%AE%89%20Weibird%20Wei%20-%20%E6%9C%89%E6%B2%92%E6%9C%89%20(%E5%AE%98%E6%96%B9%E7%89%88MV).mp3",
     "fileName": "25 - 韋禮安 Weibird Wei - 有沒有 (官方版MV).mp3",
     "defaultDifficulty": "normal"
   },
@@ -454,7 +454,7 @@
     "index": "26",
     "title": "Feel A Way  ft. Don Toliver",
     "artist": "KAYTRANADA",
-    "audioUrl": "/songs/26%20-%20KAYTRANADA%20-%20Feel%20A%20Way%20(Official%20Audio)%20ft.%20Don%20Toliver.mp3",
+    "audioUrl": "songs/26%20-%20KAYTRANADA%20-%20Feel%20A%20Way%20(Official%20Audio)%20ft.%20Don%20Toliver.mp3",
     "fileName": "26 - KAYTRANADA - Feel A Way (Official Audio) ft. Don Toliver.mp3",
     "defaultDifficulty": "hard"
   },
@@ -463,7 +463,7 @@
     "index": "26",
     "title": "i'm like that ft. 로꼬 (Loco)",
     "artist": "Karencici",
-    "audioUrl": "/songs/26%20-%20Karencici%20-%20i'm%20like%20that%20ft.%20%EB%A1%9C%EA%BC%AC%20(Loco)%20%5BOfficial%20Music%20Video%5D.mp3",
+    "audioUrl": "songs/26%20-%20Karencici%20-%20i'm%20like%20that%20ft.%20%EB%A1%9C%EA%BC%AC%20(Loco)%20%5BOfficial%20Music%20Video%5D.mp3",
     "fileName": "26 - Karencici - i'm like that ft. 로꼬 (Loco) [Official Music Video].mp3",
     "defaultDifficulty": "hard"
   },
@@ -472,7 +472,7 @@
     "index": "27",
     "title": "DEEP GREEN (OFFICIAL LYRIC VIDEO)",
     "artist": "CHRISTIAN KURIA",
-    "audioUrl": "/songs/27%20-%20CHRISTIAN%20KURIA%20-%20DEEP%20GREEN%20(OFFICIAL%20LYRIC%20VIDEO).mp3",
+    "audioUrl": "songs/27%20-%20CHRISTIAN%20KURIA%20-%20DEEP%20GREEN%20(OFFICIAL%20LYRIC%20VIDEO).mp3",
     "fileName": "27 - CHRISTIAN KURIA - DEEP GREEN (OFFICIAL LYRIC VIDEO).mp3",
     "defaultDifficulty": "easy"
   },
@@ -481,7 +481,7 @@
     "index": "27",
     "title": "I Know (PR1SVX Edit Extended)",
     "artist": "未知歌手",
-    "audioUrl": "/songs/27%20-%20I%20Know%20(PR1SVX%20Edit%20Extended).mp3",
+    "audioUrl": "songs/27%20-%20I%20Know%20(PR1SVX%20Edit%20Extended).mp3",
     "fileName": "27 - I Know (PR1SVX Edit Extended).mp3",
     "defaultDifficulty": "easy"
   },
@@ -490,7 +490,7 @@
     "index": "28",
     "title": "Die For You",
     "artist": "Joji",
-    "audioUrl": "/songs/28%20-%20Joji%20-%20Die%20For%20You.mp3",
+    "audioUrl": "songs/28%20-%20Joji%20-%20Die%20For%20You.mp3",
     "fileName": "28 - Joji - Die For You.mp3",
     "defaultDifficulty": "normal"
   },
@@ -499,7 +499,7 @@
     "index": "28",
     "title": "Die With A Smile",
     "artist": "Lady Gaga, Bruno Mars",
-    "audioUrl": "/songs/28%20-%20Lady%20Gaga%2C%20Bruno%20Mars%20-%20Die%20With%20A%20Smile%20(Official%20Music%20Video).mp3",
+    "audioUrl": "songs/28%20-%20Lady%20Gaga%2C%20Bruno%20Mars%20-%20Die%20With%20A%20Smile%20(Official%20Music%20Video).mp3",
     "fileName": "28 - Lady Gaga, Bruno Mars - Die With A Smile (Official Music Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -508,7 +508,7 @@
     "index": "29",
     "title": "D & G",
     "artist": "未知歌手",
-    "audioUrl": "/songs/29%20-%20D%20%26%20G.mp3",
+    "audioUrl": "songs/29%20-%20D%20%26%20G.mp3",
     "fileName": "29 - D & G.mp3",
     "defaultDifficulty": "hard"
   },
@@ -517,7 +517,7 @@
     "index": "29",
     "title": "Snooze (Acoustic) (Audio) ft. Justin Bieber",
     "artist": "SZA",
-    "audioUrl": "/songs/29%20-%20SZA%20-%20Snooze%20(Acoustic)%20(Audio)%20ft.%20Justin%20Bieber.mp3",
+    "audioUrl": "songs/29%20-%20SZA%20-%20Snooze%20(Acoustic)%20(Audio)%20ft.%20Justin%20Bieber.mp3",
     "fileName": "29 - SZA - Snooze (Acoustic) (Audio) ft. Justin Bieber.mp3",
     "defaultDifficulty": "hard"
   },
@@ -526,7 +526,7 @@
     "index": "30",
     "title": "Kill Bill",
     "artist": "SZA",
-    "audioUrl": "/songs/30%20-%20SZA%20-%20Kill%20Bill%20(Official%20Video).mp3",
+    "audioUrl": "songs/30%20-%20SZA%20-%20Kill%20Bill%20(Official%20Video).mp3",
     "fileName": "30 - SZA - Kill Bill (Official Video).mp3",
     "defaultDifficulty": "easy"
   },
@@ -535,7 +535,7 @@
     "index": "31",
     "title": "VVS最純淨 (Audio)",
     "artist": "大成 DACHENG",
-    "audioUrl": "/songs/31%20-%20%E5%A4%A7%E6%88%90%20DACHENG%20-%20VVS%E6%9C%80%E7%B4%94%E6%B7%A8%20(Audio).mp3",
+    "audioUrl": "songs/31%20-%20%E5%A4%A7%E6%88%90%20DACHENG%20-%20VVS%E6%9C%80%E7%B4%94%E6%B7%A8%20(Audio).mp3",
     "fileName": "31 - 大成 DACHENG - VVS最純淨 (Audio).mp3",
     "defaultDifficulty": "normal"
   },
@@ -544,7 +544,7 @@
     "index": "32",
     "title": "Flashing Lights ft. Dwele",
     "artist": "Kanye West",
-    "audioUrl": "/songs/32%20-%20Kanye%20West%20-%20Flashing%20Lights%20ft.%20Dwele.mp3",
+    "audioUrl": "songs/32%20-%20Kanye%20West%20-%20Flashing%20Lights%20ft.%20Dwele.mp3",
     "fileName": "32 - Kanye West - Flashing Lights ft. Dwele.mp3",
     "defaultDifficulty": "hard"
   },
@@ -553,7 +553,7 @@
     "index": "33",
     "title": "1 AM",
     "artist": "未知歌手",
-    "audioUrl": "/songs/33%20-%201%20AM.mp3",
+    "audioUrl": "songs/33%20-%201%20AM.mp3",
     "fileName": "33 - 1 AM.mp3",
     "defaultDifficulty": "easy"
   },
@@ -562,7 +562,7 @@
     "index": "34",
     "title": "Elle Eliades ft. R.L. KING",
     "artist": "You",
-    "audioUrl": "/songs/34%20-%20You%20-%20Elle%20Eliades%20ft.%20R.L.%20KING.mp3",
+    "audioUrl": "songs/34%20-%20You%20-%20Elle%20Eliades%20ft.%20R.L.%20KING.mp3",
     "fileName": "34 - You - Elle Eliades ft. R.L. KING.mp3",
     "defaultDifficulty": "normal"
   },
@@ -571,7 +571,7 @@
     "index": "35",
     "title": "SEX TAPE",
     "artist": "ØZI × 落日飛車 Sunset Rollercoaster",
-    "audioUrl": "/songs/35%20-%20%C3%98ZI%20%C3%97%20%E8%90%BD%E6%97%A5%E9%A3%9B%E8%BB%8A%20Sunset%20Rollercoaster%20-%20SEX%20TAPE%20(Music%20Video).mp3",
+    "audioUrl": "songs/35%20-%20%C3%98ZI%20%C3%97%20%E8%90%BD%E6%97%A5%E9%A3%9B%E8%BB%8A%20Sunset%20Rollercoaster%20-%20SEX%20TAPE%20(Music%20Video).mp3",
     "fileName": "35 - ØZI × 落日飛車 Sunset Rollercoaster - SEX TAPE (Music Video).mp3",
     "defaultDifficulty": "hard"
   },
@@ -580,7 +580,7 @@
     "index": "36",
     "title": "Witchy (feat. Childish Gambino)",
     "artist": "KAYTRANADA",
-    "audioUrl": "/songs/36%20-%20KAYTRANADA%20-%20Witchy%20(feat.%20Childish%20Gambino)%20%5BOfficial%20Video%5D.mp3",
+    "audioUrl": "songs/36%20-%20KAYTRANADA%20-%20Witchy%20(feat.%20Childish%20Gambino)%20%5BOfficial%20Video%5D.mp3",
     "fileName": "36 - KAYTRANADA - Witchy (feat. Childish Gambino) [Official Video].mp3",
     "defaultDifficulty": "easy"
   },
@@ -589,7 +589,7 @@
     "index": "37",
     "title": "Too Many Nights",
     "artist": "Metro Boomin, Don Toliver, Future",
-    "audioUrl": "/songs/37%20-%20Metro%20Boomin%2C%20Don%20Toliver%2C%20Future%20-%20Too%20Many%20Nights%20(Official%20Video).mp3",
+    "audioUrl": "songs/37%20-%20Metro%20Boomin%2C%20Don%20Toliver%2C%20Future%20-%20Too%20Many%20Nights%20(Official%20Video).mp3",
     "fileName": "37 - Metro Boomin, Don Toliver, Future - Too Many Nights (Official Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -598,7 +598,7 @@
     "index": "38",
     "title": "纵容",
     "artist": "未知歌手",
-    "audioUrl": "/songs/38%20-%20%E7%BA%B5%E5%AE%B9.mp3",
+    "audioUrl": "songs/38%20-%20%E7%BA%B5%E5%AE%B9.mp3",
     "fileName": "38 - 纵容.mp3",
     "defaultDifficulty": "hard"
   },
@@ -607,7 +607,7 @@
     "index": "39",
     "title": "Renaissance Man",
     "artist": "Jinan Laetitia",
-    "audioUrl": "/songs/39%20-%20Jinan%20Laetitia%20-%20Renaissance%20Man%20(Official%20Visualizer).mp3",
+    "audioUrl": "songs/39%20-%20Jinan%20Laetitia%20-%20Renaissance%20Man%20(Official%20Visualizer).mp3",
     "fileName": "39 - Jinan Laetitia - Renaissance Man (Official Visualizer).mp3",
     "defaultDifficulty": "easy"
   },
@@ -616,7 +616,7 @@
     "index": "40",
     "title": "Let It",
     "artist": "CL",
-    "audioUrl": "/songs/40%20-%20CL%20-%20Let%20It%20(Official%20Video).mp3",
+    "audioUrl": "songs/40%20-%20CL%20-%20Let%20It%20(Official%20Video).mp3",
     "fileName": "40 - CL - Let It (Official Video).mp3",
     "defaultDifficulty": "normal"
   },
@@ -625,7 +625,7 @@
     "index": "41",
     "title": "Lover Boy 88",
     "artist": "Phum Viphurit & Higher Brothers",
-    "audioUrl": "/songs/41%20-%20Phum%20Viphurit%20%26%20Higher%20Brothers%20-%20Lover%20Boy%2088%20(Official%20Video).mp3",
+    "audioUrl": "songs/41%20-%20Phum%20Viphurit%20%26%20Higher%20Brothers%20-%20Lover%20Boy%2088%20(Official%20Video).mp3",
     "fileName": "41 - Phum Viphurit & Higher Brothers - Lover Boy 88 (Official Video).mp3",
     "defaultDifficulty": "hard"
   },
@@ -634,7 +634,7 @@
     "index": "42",
     "title": "Hardcore (feat. Don Toliver)",
     "artist": "Zack Bia",
-    "audioUrl": "/songs/42%20-%20Zack%20Bia%20-%20Hardcore%20(feat.%20Don%20Toliver)%20%5BOfficial%20Audio%5D.mp3",
+    "audioUrl": "songs/42%20-%20Zack%20Bia%20-%20Hardcore%20(feat.%20Don%20Toliver)%20%5BOfficial%20Audio%5D.mp3",
     "fileName": "42 - Zack Bia - Hardcore (feat. Don Toliver) [Official Audio].mp3",
     "defaultDifficulty": "easy"
   },
@@ -643,7 +643,7 @@
     "index": "43",
     "title": "close to you (demo)",
     "artist": "未知歌手",
-    "audioUrl": "/songs/43%20-%20close%20to%20you%20(demo).mp3",
+    "audioUrl": "songs/43%20-%20close%20to%20you%20(demo).mp3",
     "fileName": "43 - close to you (demo).mp3",
     "defaultDifficulty": "normal"
   },
@@ -652,7 +652,7 @@
     "index": "44",
     "title": "花",
     "artist": "Taji",
-    "audioUrl": "/songs/44%20-%20Taji%20-%20%E8%8A%B1%20(Official%20Video).mp3",
+    "audioUrl": "songs/44%20-%20Taji%20-%20%E8%8A%B1%20(Official%20Video).mp3",
     "fileName": "44 - Taji - 花 (Official Video).mp3",
     "defaultDifficulty": "hard"
   },
@@ -661,7 +661,7 @@
     "index": "45",
     "title": "沉溺（你让我的心不再结冰）",
     "artist": "未知歌手",
-    "audioUrl": "/songs/45%20-%20%E6%B2%89%E6%BA%BA%EF%BC%88%E4%BD%A0%E8%AE%A9%E6%88%91%E7%9A%84%E5%BF%83%E4%B8%8D%E5%86%8D%E7%BB%93%E5%86%B0%EF%BC%89.mp3",
+    "audioUrl": "songs/45%20-%20%E6%B2%89%E6%BA%BA%EF%BC%88%E4%BD%A0%E8%AE%A9%E6%88%91%E7%9A%84%E5%BF%83%E4%B8%8D%E5%86%8D%E7%BB%93%E5%86%B0%EF%BC%89.mp3",
     "fileName": "45 - 沉溺（你让我的心不再结冰）.mp3",
     "defaultDifficulty": "easy"
   },
@@ -670,7 +670,7 @@
     "index": "46",
     "title": "The Weeknd & Ariana Grande – Save Your Tears (Live on The 2021 iHeart Radio Music Awards)",
     "artist": "未知歌手",
-    "audioUrl": "/songs/46%20-%20The%20Weeknd%20%26%20Ariana%20Grande%20%E2%80%93%20Save%20Your%20Tears%20(Live%20on%20The%202021%20iHeart%20Radio%20Music%20Awards).mp3",
+    "audioUrl": "songs/46%20-%20The%20Weeknd%20%26%20Ariana%20Grande%20%E2%80%93%20Save%20Your%20Tears%20(Live%20on%20The%202021%20iHeart%20Radio%20Music%20Awards).mp3",
     "fileName": "46 - The Weeknd & Ariana Grande – Save Your Tears (Live on The 2021 iHeart Radio Music Awards).mp3",
     "defaultDifficulty": "normal"
   },
@@ -679,7 +679,7 @@
     "index": "47",
     "title": "愛愛愛",
     "artist": "Khalil Fong (方大同)",
-    "audioUrl": "/songs/47%20-%20Khalil%20Fong%20(%E6%96%B9%E5%A4%A7%E5%90%8C)%20-%20%E6%84%9B%E6%84%9B%E6%84%9B%20Official%20Music%20Video.mp3",
+    "audioUrl": "songs/47%20-%20Khalil%20Fong%20(%E6%96%B9%E5%A4%A7%E5%90%8C)%20-%20%E6%84%9B%E6%84%9B%E6%84%9B%20Official%20Music%20Video.mp3",
     "fileName": "47 - Khalil Fong (方大同) - 愛愛愛 Official Music Video.mp3",
     "defaultDifficulty": "hard"
   },
@@ -688,7 +688,7 @@
     "index": "49",
     "title": "RICHNOMADIC⧸SASIOVERLXRD⧸JinJiBeWater_隼",
     "artist": "彝 藏 汉",
-    "audioUrl": "/songs/49%20-%20%E5%BD%9D%20%E8%97%8F%20%E6%B1%89%20-RICHNOMADIC%E2%A7%B8SASIOVERLXRD%E2%A7%B8JinJiBeWater_%E9%9A%BC.mp3",
+    "audioUrl": "songs/49%20-%20%E5%BD%9D%20%E8%97%8F%20%E6%B1%89%20-RICHNOMADIC%E2%A7%B8SASIOVERLXRD%E2%A7%B8JinJiBeWater_%E9%9A%BC.mp3",
     "fileName": "49 - 彝 藏 汉 -RICHNOMADIC⧸SASIOVERLXRD⧸JinJiBeWater_隼.mp3",
     "defaultDifficulty": "normal"
   },
@@ -697,7 +697,7 @@
     "index": "50",
     "title": "紅豆 Red Bean [Official 官方完整版]",
     "artist": "方大同 Khalil Fong",
-    "audioUrl": "/songs/50%20-%20%E6%96%B9%E5%A4%A7%E5%90%8C%20Khalil%20Fong%20-%20%E7%B4%85%E8%B1%86%20Red%20Bean%20%5BOfficial%20%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88MV%5D.mp3",
+    "audioUrl": "songs/50%20-%20%E6%96%B9%E5%A4%A7%E5%90%8C%20Khalil%20Fong%20-%20%E7%B4%85%E8%B1%86%20Red%20Bean%20%5BOfficial%20%E5%AE%98%E6%96%B9%E5%AE%8C%E6%95%B4%E7%89%88MV%5D.mp3",
     "fileName": "50 - 方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV].mp3",
     "defaultDifficulty": "hard"
   }
