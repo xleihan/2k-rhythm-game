@@ -119,7 +119,7 @@ export function Menu({ songs, onSelectLibrarySong, onSelectCustomSong, errorMsg 
           {/* Logo 圖片與大標題 */}
           <div className="flex flex-col items-center gap-3">
             <div className="border-4 border-black rounded-2xl overflow-hidden y2k-shadow-black glow-border-red bg-white p-2 max-w-[150px]">
-              <img src="/logo.jpg" alt="Logo" className="w-full h-auto rounded-lg" />
+              <img src="logo.jpg" alt="Logo" className="w-full h-auto rounded-lg" />
             </div>
             <h1 className="text-4xl md:text-5xl font-black tracking-tighter text-black uppercase italic skew-x-[-4deg] glow-text-red">
               2K 節奏高手 <span className="text-[#FF2E55]">MADNESS</span>

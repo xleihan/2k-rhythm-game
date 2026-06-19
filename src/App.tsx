@@ -232,7 +232,7 @@ export default function App() {
               <div className="relative z-10 space-y-10 max-w-sm w-full">
                 {/* 提取的 Logo 圖片 */}
                 <div className="relative inline-block mx-auto border-4 border-black y2k-shadow-black rounded-2xl overflow-hidden glow-border-red bg-white p-2 max-w-[220px]">
-                  <img src="/logo.jpg" alt="Logo" className="w-full h-auto rounded-lg" />
+                  <img src="logo.jpg" alt="Logo" className="w-full h-auto rounded-lg" />
                   <div className="absolute -top-3 -right-3 w-8 h-8 text-[#FF2E55] animate-star-pulse">
                     <svg viewBox="0 0 24 24" fill="currentColor">
                       <path d="M12 0L14.6 9.4L24 12L14.6 14.6L12 24L9.4 14.6L0 12L9.4 9.4Z"/>
